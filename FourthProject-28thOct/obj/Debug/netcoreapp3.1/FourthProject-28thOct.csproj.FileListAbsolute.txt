@@ -1,0 +1,14 @@
+C:\Users\107012\source\repos\FourthProject-28thOct\FourthProject-28thOct\bin\Debug\netcoreapp3.1\FourthProject-28thOct.exe
+C:\Users\107012\source\repos\FourthProject-28thOct\FourthProject-28thOct\bin\Debug\netcoreapp3.1\FourthProject-28thOct.deps.json
+C:\Users\107012\source\repos\FourthProject-28thOct\FourthProject-28thOct\bin\Debug\netcoreapp3.1\FourthProject-28thOct.runtimeconfig.json
+C:\Users\107012\source\repos\FourthProject-28thOct\FourthProject-28thOct\bin\Debug\netcoreapp3.1\FourthProject-28thOct.runtimeconfig.dev.json
+C:\Users\107012\source\repos\FourthProject-28thOct\FourthProject-28thOct\bin\Debug\netcoreapp3.1\FourthProject-28thOct.dll
+C:\Users\107012\source\repos\FourthProject-28thOct\FourthProject-28thOct\bin\Debug\netcoreapp3.1\FourthProject-28thOct.pdb
+C:\Users\107012\source\repos\FourthProject-28thOct\FourthProject-28thOct\obj\Debug\netcoreapp3.1\FourthProject-28thOct.csproj.AssemblyReference.cache
+C:\Users\107012\source\repos\FourthProject-28thOct\FourthProject-28thOct\obj\Debug\netcoreapp3.1\FourthProject-28thOct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107012\source\repos\FourthProject-28thOct\FourthProject-28thOct\obj\Debug\netcoreapp3.1\FourthProject-28thOct.AssemblyInfoInputs.cache
+C:\Users\107012\source\repos\FourthProject-28thOct\FourthProject-28thOct\obj\Debug\netcoreapp3.1\FourthProject-28thOct.AssemblyInfo.cs
+C:\Users\107012\source\repos\FourthProject-28thOct\FourthProject-28thOct\obj\Debug\netcoreapp3.1\FourthProject-28thOct.csproj.CoreCompileInputs.cache
+C:\Users\107012\source\repos\FourthProject-28thOct\FourthProject-28thOct\obj\Debug\netcoreapp3.1\FourthProject-28thOct.dll
+C:\Users\107012\source\repos\FourthProject-28thOct\FourthProject-28thOct\obj\Debug\netcoreapp3.1\FourthProject-28thOct.pdb
+C:\Users\107012\source\repos\FourthProject-28thOct\FourthProject-28thOct\obj\Debug\netcoreapp3.1\FourthProject-28thOct.genruntimeconfig.cache
